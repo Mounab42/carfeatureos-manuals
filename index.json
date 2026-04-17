@@ -1,0 +1,39 @@
+{
+  "manuals": [
+    {
+      "brand": "toyota",
+      "model": "corolla",
+      "year": 2020,
+      "url": "https://raw.githubusercontent.com/Mounab42/carfeatureos-manuals/main/manuals/toyota/corolla_2020.pdf",
+      "keywords": ["toyota", "corolla", "2020"]
+    },
+    {
+      "brand": "bmw",
+      "model": "x5",
+      "year": 2018,
+      "url": "https://raw.githubusercontent.com/Mounab42/carfeatureos-manuals/main/manuals/bmw/x5_2018.pdf",
+      "keywords": ["bmw", "x5", "2018", "g05"]
+    },
+    {
+      "brand": "mercedes",
+      "model": "c_class",
+      "year": 2019,
+      "url": "https://raw.githubusercontent.com/Mounab42/carfeatureos-manuals/main/manuals/mercedes/c_class_2019.pdf",
+      "keywords": ["mercedes", "c class", "2019"]
+    },
+    {
+      "brand": "renault",
+      "model": "clio",
+      "year": 2020,
+      "url": "https://raw.githubusercontent.com/Mounab42/carfeatureos-manuals/main/manuals/renault/clio_2020.pdf",
+      "keywords": ["renault", "clio", "2020"]
+    },
+    {
+      "brand": "honda",
+      "model": "civic",
+      "year": 2021,
+      "url": "https://raw.githubusercontent.com/Mounab42/carfeatureos-manuals/main/manuals/honda/civic_2021.pdf",
+      "keywords": ["honda", "civic", "2021"]
+    }
+  ]
+}
